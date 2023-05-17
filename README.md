@@ -1,0 +1,3 @@
+# ArduinoUNO_RTC1037
+
+Este es un codigo para configurar un RTC con la la libreria 1037 en Arduino...
